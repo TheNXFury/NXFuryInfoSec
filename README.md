@@ -73,7 +73,7 @@ just remember that you can't purchase success!
 
 # Community
 
-- We have a discord server! [![Discord](https://img.shields.io/discord/744385009028431943.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wuytwK5s9h) This should be your first stop to talk with other NXFury students. Why don't you introduce yourself right now? [Join the NXFury Discord](https://discord.gg/wuytwK5s9h)
+- We have a discord server! [![Discord](https://img.shields.io/discord/744385009028431943.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://example.com) This should be your first stop to talk with other NXFury students. Why don't you introduce yourself right now? [Join the NXFury Discord](https://example.com)
 - You can also interact through GitHub issues. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
 
 # Curriculum
@@ -207,8 +207,8 @@ Courses | Duration | Effort | Prerequisites
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - | [chat](https://discord.gg/XdY3AwTFK4)
-[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week | - | [chat](https://discord.gg/5gMdeSK)
+[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | 8 weeks | 10-12 hours/week | - 
+[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)| 4 weeks | 4 hours/week | - 
 [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | 4 weeks | 4 hours/week | -
 
 
@@ -288,7 +288,7 @@ or
 Upon completing your final project:
 - Submit your project's information to [PROJECTS](PROJECTS.md) via a pull request.
 - Put the NXFury Information Security badge in the README of your repository!
-[![NXFury - Information Security](https://img.shields.io/badge/NXFURY-Information%20Security-blue.svg)](https://github.com/ossu/computer-science)
+[![NXFury - Information Security](https://img.shields.io/badge/NXFURY-Information%20Security-blue.svg)](https://github.com/TheNXFury/NXFuryInfoSec)
 
   - Markdown: `[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/TheNXFury/NXFuryInfoSec)`
   - HTML: `<a href="https://github.com/TheNXFury/NXFuryInfoSec"><img alt="NXFury- Information Security" src="https://img.shields.io/badge/NXFURY-Information%20Security-blue.svg"></a>`

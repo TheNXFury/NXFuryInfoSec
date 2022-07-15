@@ -216,8 +216,6 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | 5 hours/week | -
 [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | 5 hours/week | -
-
-Courses | Duration | Effort | Prerequisites
 [Cryptography I] (https://www.coursera.org/learn/crypto) | 7 weeks | 2.5 hours/week | -
 
 

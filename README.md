@@ -1,4 +1,4 @@
-![NXFury Information Security](https://i.imgur.com/kYYCXtC.png)
+![NXFury Information Security](banner.jpg)
 
 <h3 align="center">NXFury Information Security</h3>
 <p align="center">

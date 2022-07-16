@@ -59,7 +59,7 @@ Note that both [Coursera](https://www.coursera.support/s/article/209819033-Apply
 Decide how much or how little to spend based on your own time and budget;
 just remember that you can't purchase success!
 
-**Process**. Students can work through the curriculum alone or in groups, in order or out of order.
+**Process**. Students can work through the curriculum alone or in groups of up to 5, ideally following the suggested order.
 - We recommend doing all courses in Core CS, only skipping a course when you are certain that you've already learned the material previously.
 - For simplicity, we recommend working through courses (especially Core CS) in order from top to bottom, as they have already been [topologically sorted](https://en.wikipedia.org/wiki/Topological_sorting) by their prerequisites.
 - Courses in Advanced CS are electives. Choose one subject (e.g. Advanced programming) you want to become an expert in and take all the courses under that heading. You can also create your own custom subject, but we recommend getting validation from the community on the subject you choose.
@@ -73,7 +73,7 @@ just remember that you can't purchase success!
 
 # Community
 
-- We have a discord server! [![Discord](https://img.shields.io/discord/744385009028431943.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://example.com) This should be your first stop to talk with other NXFury students. Why don't you introduce yourself right now? [Join the NXFury Discord](https://example.com)
+- We have a discord server! [![Discord](https://img.shields.io/discord/744385009028431943.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/BEWfqfdffD) This should be your first stop to talk with other NXFury students. Why don't you introduce yourself right now? [Join the NXFury Discord](https://discord.gg/BEWfqfdffD)
 - You can also interact through GitHub issues. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
 
 # Curriculum
@@ -262,10 +262,10 @@ Courses | Duration | Effort | Prerequisites
 
 ## Final project
 
-OSS University is project-focused.
+The NXFury Information Security curriculum is project-focused.
 The assignments and exams for each course are to prepare you to use your knowledge to solve real-world problems.
 
-After you've gotten through all of Core CS and the parts of Advanced CS relevant to you, you should think about a problem that you can solve using the knowledge you've acquired.
+After you've gotten through the above curriculum, you should think about a problem that you can solve using the knowledge you've acquired.
 Not only does real project work look great on a resume, but the project will also validate and consolidate your knowledge.
 You can create something entirely new, or you can find an existing project that needs help via websites like
 [CodeTriage](https://www.codetriage.com/)
@@ -279,7 +279,7 @@ Upon completing your final project:
 - Put the NXFury Information Security badge in the README of your repository!
 [![NXFury - Information Security](https://img.shields.io/badge/NXFURY-Information%20Security-blue.svg)](https://github.com/TheNXFury/NXFuryInfoSec)
 
-  - Markdown: `[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/TheNXFury/NXFuryInfoSec)`
+  - Markdown: `[![NXFury- Information Security](https://img.shields.io/badge/NXFURY-Information%20Security-blue.svg)](https://github.com/TheNXFury/NXFuryInfoSec)`
   - HTML: `<a href="https://github.com/TheNXFury/NXFuryInfoSec"><img alt="NXFury- Information Security" src="https://img.shields.io/badge/NXFURY-Information%20Security-blue.svg"></a>`
 - Use our [community](#community) channels to announce it to your fellow students.
 
@@ -304,6 +304,17 @@ You can use **any** language that you want to complete the final project.
 
 The important thing is to **internalize** the core concepts and to be able to use them with whatever tool (programming language) that you wish.
 
+### How we grade your project
+
+In our [Discord Server,](https://discord.gg/BEWfqfdffD) please submit your project as a github repo to our staff. Your project will be graded on the following:
+- Demonstration of skills you have learned throughout the curriculum
+- Project is of sufficient size for the quantity of people involved in the project
+
+Students should note that the following will not be accepted as submissions:
+- Projects involving any illegal activity whatsoever
+- Attempts to "rank up" in penetration testing labs online.
+- Projects that contain excessive copying of others' work.
+
 ## Congratulations
 
 After completing the requirements of the curriculum above, you will have completed the equivalent of a full bachelor's degree in Computer Science. Congratulations!
@@ -318,7 +329,7 @@ What is next for you? The possibilities are boundless and overlapping:
 ![keep learning](https://i.imgur.com/REQK0VU.jpg)
 
 # Code of conduct
-[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
+[NXFury Code Of Conduct](https://github.com/TheNXFury/code-of-conduct).
 
 ## How to show your progress
 

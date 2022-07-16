@@ -9,7 +9,6 @@ Alternatively, you could [contribute](#CONTRIBUTING.md) an answer yourself.
 ## Contents
 
 - [Does NXFury offer a degree?](#does-nxfury-offer-a-degree)
-- [What is a good course to learn a language (C++, Rust, Java, etc)?](#what-is-a-good-course-to-learn-a-particular-language)
 - [In what order should I take the courses?](#in-what-order-should-i-take-the-courses)
 - [Does every resource in the main curriculum have to be free?](#does-every-resource-in-the-main-curriculum-have-to-be-free)
 - [Are Coursera courses free to access?](#are-coursera-courses-free-to-access)
@@ -17,7 +16,6 @@ Alternatively, you could [contribute](#CONTRIBUTING.md) an answer yourself.
 - [What are the alt links?](#what-are-the-alt-links)
 - [Why doesn't the curriculum cover/ignore topic X?](#why-doesnt-the-curriculum-coverignore-topic-x)
 - [Why is the curriculum missing some pre-requisites?](#why-is-the-curriculum-missing-some-pre-requisites)
-- [Why require experience with a sizable project before the Software Engineering courses?](#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses)
 - [How can I find a course on a particular subject?](#how-can-I-find-a-course-on-a-particular-subject)
 
 ## Questions

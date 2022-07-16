@@ -73,7 +73,7 @@ just remember that you can't purchase success!
 
 # Community
 
-- We have a discord server! [![Discord](https://img.shields.io/discord/744385009028431943.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/BEWfqfdffD) This should be your first stop to talk with other NXFury students. Why don't you introduce yourself right now? [Join the NXFury Discord](https://discord.gg/BEWfqfdffD)
+- We have a discord server! [![Discord](https://img.shields.io/discord/997327212061659159.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/BEWfqfdffD) This should be your first stop to talk with other NXFury students. Why don't you introduce yourself right now? [Join the NXFury Discord](https://discord.gg/BEWfqfdffD)
 - You can also interact through GitHub issues. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
 
 # Curriculum

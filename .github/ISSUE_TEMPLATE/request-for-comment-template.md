@@ -14,12 +14,12 @@ Give a 1-2 sentence description of a problem with the current NXFury Curriculum.
 * NXFury lists courses X, Y and Z that cover the same topics when fewer courses could suffice.
 * NXFury recommends course X to teach a topic, but there exists a higher quality course that covers the same material and meets our specifications.
 
-**Proposed Solution**
+**Proposed Solution:**
 Please offer a proposed solution to the problem, and if necessary, elaborate upon it further here.
 You may also link to a pull request here.
 
-**Alternatives**
+**Alternatives:**
 Please provide some alternatives here if applicable for ease of communication.
 
-**Additional Comments**
-If you have something else to add related to the issue not covered by the other components, please put it here.
+**Additional Comments and Details:**
+If you have additional details you would like to add to better our understanding of your problem or any additional comments not covered by the other sections, please put them here. 

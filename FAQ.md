@@ -79,7 +79,7 @@ Sometimes a course is on multiple platforms that are reasonably similar in quali
 
 ### Why doesn't the curriculum cover/ignore topic X?
 
-You can read more about our curricular guidelines and the qualifications of the guidelines' authors [here](CURRICULAR_GUIDELINES.md). If you find a topic that is required by our guidelines and is not included in the curriculum, we should make a change! Read more about [contributing to a change](CONTRIBUTING.md).
+This curriculum is still a work in progress and we would love input from others! Read more about [contributing to a change](CONTRIBUTING.md).
 
 ### Why is the curriculum missing some pre-requisites?
 

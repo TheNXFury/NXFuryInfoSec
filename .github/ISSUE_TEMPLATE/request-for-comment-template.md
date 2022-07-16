@@ -19,4 +19,4 @@ Please offer a proposed solution to the problem, and if necessary, elaborate upo
 You may also link to a pull request here.
 
 **Alternatives**
-Please provide some alternatives here if applicable, just for ease of communication.
+Please provide some alternatives here if applicable for ease of communication.

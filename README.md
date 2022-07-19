@@ -259,6 +259,7 @@ Courses | Duration | Effort | Prerequisites
 [Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse) | 7 weeks | 1-2 hours/week | Core Programming and Core Security
 [Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) | 7 weeks | 1-2 hours/week | Secure Software Development: Requirements, Design, and Reuse
 [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) | 7 weeks | 1-2 hours/week | Secure Software Development: Implementation
+[Advanced Topics in Cryptography](https://ocw.mit.edu/courses/6-876j-advanced-topics-in-cryptography-spring-2003/pages/syllabus/) | 22 lectures (3 weeks) | 1 lecture per day (7 hours/week) | MIT OCW 6.875/18.425 
 
 ## Final project
 

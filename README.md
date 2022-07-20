@@ -221,8 +221,6 @@ Courses | Duration | Effort | Prerequisites
 [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | 5 hours/week | -
 [Cryptography I](https://www.coursera.org/learn/crypto) | 7 weeks | 2.5 hours/week | -
 
-
-
 ## Advanced Information Security
 
 After completing **every required course** in Core CS, students should choose a subset of courses from Advanced CS based on interest.
@@ -256,9 +254,6 @@ Courses | Duration | Effort | Prerequisites
 [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals) | 5 weeks | 4-6 hours/week | understanding basic web technologies
 [Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) | 3 weeks | 3 hours/week | -
 [Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | 3 weeks | 2-3 hours/week | Core Security
-[Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse) | 7 weeks | 1-2 hours/week | Core Programming and Core Security
-[Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) | 7 weeks | 1-2 hours/week | Secure Software Development: Requirements, Design, and Reuse
-[Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) | 7 weeks | 1-2 hours/week | Secure Software Development: Implementation
 
 ## Specialization
 
@@ -279,6 +274,15 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Reverse Engineering 3011: Reversing C++ Binaries](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+RE3011_re_cpp+2022_v1/about) | 5 weeks | 10-15 hours/week | C and Assembly Programming
 [Reverse Engineering 3201: Symbolic Analysis](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+RE3201_symexec+2021_V1/about) | 5 weeks | 10-15 hours/week | C, Python, Assembly Programming
+
+### Secure Software Development
+Develop Secure Software that's hard to exploit.
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse) | 7 weeks | 1-2 hours/week | Core Programming and Core Security
+[Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) | 7 weeks | 1-2 hours/week | Secure Software Development: Requirements, Design, and Reuse
+[Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) | 7 weeks | 1-2 hours/week | Secure Software Development: Implementation
 
 ### Penetration Testing
 Gain unauthorized access to other systems, for the sake of auditing and improving their security.

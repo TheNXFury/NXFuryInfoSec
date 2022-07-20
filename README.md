@@ -18,8 +18,8 @@
 - [Summary](#summary)
 - [Community](#community)
 - [Curriculum](#curriculum)
-- [Code of conduct](#code-of-conduct)
-- [Team](#team)
+- [Code of Conduct](#code-of-conduct)
+- [Credits](#credits)
 
 # Summary
 
@@ -81,22 +81,25 @@ just remember that you can't purchase success!
 **Curriculum version**: `0.0.1` (see [CHANGELOG](CHANGELOG.md))
 
 - [Prerequisites](#prerequisites)
-- [Intro Programming](#intro-programming)
+- [Introductory Materials](#introductory-materials)
   - [Introduction to Programming](#introduction-to-programming)
   - [Introduction to Computer Science](#introduction-to-computer-science)
-- [Core CS](#core-cs)
-  - [Core programming](#core-programming)
-  - [CS Tools](#cs-tools)
-  - [Core systems](#core-systems)
-  - [Core theory](#core-theory)
-  - [Core security](#core-security)
-  - [Core applications](#core-applications)
+  - [Introduction to Critical Thinking and Basic Logic](#introduction-to-critical-thinking-and-basic-logic)
+- [Core Curriculum](#core-curriculum)
+  - [Basics](#basics)
   - [Core ethics](#core-ethics)
-- [Advanced CS](#advanced-cs)
-  - [Advanced programming](#advanced-programming)
-  - [Advanced systems](#advanced-systems)
-  - [Advanced theory](#advanced-theory)
-  - [Advanced information security](#advanced-information-security)
+  - [Databases](#databases)
+  - [Core Security](#core-security)
+- [Advanced Information Security](#advanced-information-security)
+  - [Advanced Programming](#advanced-programming)
+  - [Advanced Information Security](#advanced-information-security)
+- [Specialization](#specialization)
+  - [Digital Mobile Forensics](#digital-mobile-forensics)
+  - [Software Reverse Engineering](#software-reverse-engineering)
+  - [Secure Software Development](#secure-software-development)
+  - [Penetration Testing](#penetration-testing)
+  - [Security Compliance](#security-compliance)
+  - [Cryptography](#cryptography)
 - [Final project](#final-project)
 
 ---
@@ -108,7 +111,7 @@ just remember that you can't purchase success!
 and is knowledgeable enough now to decide which electives to take.
 - Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
 
-## Intro Programming
+## Introductory Materials
 
 ### Introduction to Programming
 
@@ -136,6 +139,21 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home)
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - 
+
+### Introduction to Critical Thinking and Basic Logic
+
+This course will introduce you to basic logic to be applied to your decision making process. While not a course in complete, formal logic, it aims to introduce core concepts in order to instill critical thinking skills in the student. This will ideally aid in your decision making and approach to problem solving.
+
+**Topics covered**:
+`arguments`
+`deductive reasoning`
+`boolean logic`
+`reasoning`
+`and more`
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Introduction to Logic and Critical Thinking Specialization](https://www.coursera.org/specializations/logic-critical-thinking-duke) | 16 Weeks | 5 hours/week | none
 
 ## Core Curriculum
 

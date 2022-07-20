@@ -108,7 +108,7 @@ just remember that you can't purchase success!
 and is knowledgeable enough now to decide which electives to take.
 - Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
 
-## Intro Programming
+## Introductory Materials
 
 ### Introduction to Programming
 
@@ -136,6 +136,21 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) ([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home)
 [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) | 2 weeks | 12 hours/week | - 
+
+##Introduction to Critical Thinking and Basic Logic
+
+This course will introduce you to basic logic to be applied to your decision making process. While not a course in complete, formal logic, it aims to introduce core concepts in order to instill critical thinking skills in the student. This will ideally aid in your decision making and approach to problem solving.
+
+**Topics covered**:
+`arguments`
+`deductive reasoning`
+`boolean logic`
+`reasoning`
+`and more`
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Introduction to Logic and Critical Thinking Specialization](https://www.coursera.org/specializations/logic-critical-thinking-duke) | 16 Weeks | 5 hours/week | none
 
 ## Core Curriculum
 

@@ -260,6 +260,45 @@ Courses | Duration | Effort | Prerequisites
 [Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) | 7 weeks | 1-2 hours/week | Secure Software Development: Requirements, Design, and Reuse
 [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) | 7 weeks | 1-2 hours/week | Secure Software Development: Implementation
 
+## Specialization
+
+After completing the curriculum above, you are finally ready to pursue a specialization in Information Security! Choose at least one of the below subcategories to complete:
+
+### Digital Mobile Forensics
+Learn to extract data from mobile devices, with (or without) credentials.
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Android Forensics and Security Testing](https://opensecuritytraining.info/AndroidForensics.html) | 3 weeks | 10-15 hours/week | -
+[Introduction to ARM](https://opensecuritytraining.info/IntroARM.html) | 8 weeks | 10-15 hours/week | x86-64 Assembly Programming
+
+### Software Reverse Engineering
+Become good at understanding how software works, with limited to no available source code.
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Reverse Engineering 3011: Reversing C++ Binaries](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+RE3011_re_cpp+2022_v1/about) | 5 weeks | 10-15 hours/week | C and Assembly Programming
+[Reverse Engineering 3201: Symbolic Analysis](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+RE3201_symexec+2021_V1/about) | 5 weeks | 10-15 hours/week | C, Python, Assembly Programming
+
+### Penetration Testing
+Gain unauthorized access to other systems, for the sake of auditing and improving their security.
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+
+### Security Compliance
+Learn security standards in which the industry builds networks and systems, and how to implement them effectively.
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+
+### Cryptography
+Design and implement cryptographic systems, learn how they work, and learn what makes certain encryption algorithms more secure than others.
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+
+
 ## Final project
 
 The NXFury Information Security curriculum is project-focused.
@@ -325,8 +364,6 @@ What is next for you? The possibilities are boundless and overlapping:
 - Check out the [readings](extras/readings.md) for classic books you can read that will sharpen your skills and expand your knowledge.
 - Join a local hacker meetup (e.g. via [meetup.com](https://www.meetup.com/)).
 - Engage in bug bounties to make software more secure (e.g. via [HackerOne](https://www.hackerone.com/)).
-
-![keep learning](https://i.imgur.com/REQK0VU.jpg)
 
 # Code of conduct
 [NXFury Code Of Conduct](https://github.com/TheNXFury/code-of-conduct).

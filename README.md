@@ -300,9 +300,8 @@ Design and implement cryptographic systems, learn how they work, and learn what 
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-
 [Cryptography I](https://www.coursera.org/learn/crypto) | 7 weeks | 2.5 hours/week | -
-[Mathematical Foundations for Cryptography] (https://www.coursera.org/learn/mathematical-foundations-cryptography) | 4 weeks | 4 hours/week | -
+[Mathematical Foundations for Cryptography](https://www.coursera.org/learn/mathematical-foundations-cryptography) | 4 weeks | 4 hours/week | -
 
 
 ## Final project

@@ -97,7 +97,6 @@ just remember that you can't purchase success!
   - [Digital Mobile Forensics](#digital-mobile-forensics)
   - [Software Reverse Engineering](#software-reverse-engineering)
   - [Secure Software Development](#secure-software-development)
-  - [Penetration Testing](#penetration-testing)
   - [Security Compliance](#security-compliance)
   - [Cryptography](#cryptography)
 - [Final project](#final-project)
@@ -301,12 +300,6 @@ Courses | Duration | Effort | Prerequisites
 [Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) | 7 weeks | 1-2 hours/week | Secure Software Development: Requirements, Design, and Reuse
 [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) | 7 weeks | 1-2 hours/week | Secure Software Development: Implementation
 
-### Penetration Testing
-Gain unauthorized access to other systems, for the sake of auditing and improving their security.
-
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-
 ### Security Compliance
 Learn security standards in which the industry builds networks and systems, and how to implement them effectively.
 
@@ -319,6 +312,7 @@ Design and implement cryptographic systems, learn how they work, and learn what 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Cryptography I](https://www.coursera.org/learn/crypto) | 7 weeks | 2.5 hours/week | -
+[Applied Cryptography](https://www.coursera.org/specializations/applied-crypto) | 20 weeks | 2 hours/week | -
 [Mathematical Foundations for Cryptography](https://www.coursera.org/learn/mathematical-foundations-cryptography) | 4 weeks | 4 hours/week | -
 
 

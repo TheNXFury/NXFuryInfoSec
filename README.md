@@ -73,7 +73,7 @@ just remember that you can't purchase success!
 
 # Community
 
-- We have a discord server! [![Discord](https://img.shields.io/discord/744385009028431943.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/BEWfqfdffD) This should be your first stop to talk with other NXFury students. Why don't you introduce yourself right now? [Join the NXFury Discord](https://discord.gg/BEWfqfdffD)
+- We have a discord server! [![Discord](https://img.shields.io/discord/997327212061659159.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/BEWfqfdffD) This should be your first stop to talk with other NXFury students. Why don't you introduce yourself right now? [Join the NXFury Discord](https://discord.gg/BEWfqfdffD)
 - You can also interact through GitHub issues. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
 
 # Curriculum
@@ -103,7 +103,7 @@ just remember that you can't purchase success!
 
 ## Prerequisites
 
-- [Core CS](#core-cs) assumes the student has already taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites), including algebra, geometry, and pre-calculus.
+- [Core CS](#core-cs) assumes the student has already taken high school math. This includes algebra, geometry, and pre-calculus.
 - [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS
 and is knowledgeable enough now to decide which electives to take.
 - Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
@@ -183,7 +183,6 @@ Courses | Duration | Effort | Prerequisites
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | - | one of [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), From Nand to Tetris Part I
 [C For Everyone: Programming Fundamentals ](https://www.coursera.org/learn/c-for-everyone) | 3-4 weeks | 12-15 hours/week | -
 [C For Everyone: Structured Programming ](https://www.coursera.org/learn/c-structured-programming) | 2 weeks | 5 hours/week | -
-[Operating Systems: Three Easy Pieces](coursepages/ostep/OSTEP.md) | 10-12 weeks | 6-10 hours/week | - | C programming
 [Computer Networking](https://www.udacity.com/course/computer-networking--ud436) | 12 weeks | 5-8 hours/week | -
 
 ### Core ethics
@@ -232,10 +231,10 @@ Courses | Duration | Effort | Prerequisites
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | 5 hours/week | -
+[Debuggers 1011: Introductory WinDbg](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Dbg1011_WinDbg1+2021_v1/about) | 2 weeks | 10-15 hours/week | -
+[Debuggers 1012: Introductory GDB](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Dbg1012_GDB_1+2021_v1/about) | 2 weeks | 10-15 hours/week | -
 [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | 5 hours/week | -
 [Cryptography I](https://www.coursera.org/learn/crypto) | 7 weeks | 2.5 hours/week | -
-
-
 
 ## Advanced Information Security
 
@@ -257,9 +256,8 @@ But students should take *every* course that is relevant to the field they inten
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Architecture 1001: x86-64 Assembly](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/about) | 8 weeks | 10-15 hours/week | C programming
-[Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)| 4 weeks | 6-8 hours/week | Scala programming
-[Compilers](https://www.edx.org/course/compilers) | 9 weeks | 6-8 hours/week | none
-[Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | 6 hours/week | Python, object-oriented programming
+[Architecture 2001: x86-64 OS Internals](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch2001_x86-64_OS_Internals+2021_v1/about) | 6 weeks | 10-15 hours/week | x86-64 Assembly Programming 
+[Parallel Programming in Java](https://www.coursera.org/learn/parallel-programming-in-java#syllabus)| 4 weeks | 5 hours/week | Java programming
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | 4 weeks | 6 hours/week | Python, programming experience
 
 (*) book by Blackburn, Bos, Striegnitz (compiled from [source](https://github.com/LearnPrologNow/lpn), redistributed under [CC license](https://creativecommons.org/licenses/by-sa/4.0/))
@@ -271,9 +269,54 @@ Courses | Duration | Effort | Prerequisites
 [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals) | 5 weeks | 4-6 hours/week | understanding basic web technologies
 [Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) | 3 weeks | 3 hours/week | -
 [Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | 3 weeks | 2-3 hours/week | Core Security
+
+## Specialization
+
+After completing the curriculum above, you are finally ready to pursue a specialization in Information Security! Choose at least one of the below subcategories to complete:
+
+### Digital Mobile Forensics
+Learn to extract data from mobile devices, with (or without) credentials.
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Android Forensics and Security Testing](https://opensecuritytraining.info/AndroidForensics.html) | 3 weeks | 10-15 hours/week | -
+[Introduction to ARM](https://opensecuritytraining.info/IntroARM.html) | 8 weeks | 10-15 hours/week | x86-64 Assembly Programming
+
+### Software Reverse Engineering
+Become good at understanding how software works, with limited to no available source code.
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+[Reverse Engineering 3011: Reversing C++ Binaries](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+RE3011_re_cpp+2022_v1/about) | 5 weeks | 10-15 hours/week | C and Assembly Programming
+[Reverse Engineering 3201: Symbolic Analysis](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+RE3201_symexec+2021_V1/about) | 5 weeks | 10-15 hours/week | C, Python, Assembly Programming
+
+### Secure Software Development
+Develop Secure Software that's hard to exploit.
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
 [Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse) | 7 weeks | 1-2 hours/week | Core Programming and Core Security
 [Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) | 7 weeks | 1-2 hours/week | Secure Software Development: Requirements, Design, and Reuse
 [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) | 7 weeks | 1-2 hours/week | Secure Software Development: Implementation
+
+### Penetration Testing
+Gain unauthorized access to other systems, for the sake of auditing and improving their security.
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+
+### Security Compliance
+Learn security standards in which the industry builds networks and systems, and how to implement them effectively.
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+
+### Cryptography
+Design and implement cryptographic systems, learn how they work, and learn what makes certain encryption algorithms more secure than others.
+
+Courses | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--:
+
 
 ## Final project
 
@@ -340,8 +383,6 @@ What is next for you? The possibilities are boundless and overlapping:
 - Check out the [readings](extras/readings.md) for classic books you can read that will sharpen your skills and expand your knowledge.
 - Join a local hacker meetup (e.g. via [meetup.com](https://www.meetup.com/)).
 - Engage in bug bounties to make software more secure (e.g. via [HackerOne](https://www.hackerone.com/)).
-
-![keep learning](https://i.imgur.com/REQK0VU.jpg)
 
 # Code of conduct
 [NXFury Code Of Conduct](https://github.com/TheNXFury/code-of-conduct).

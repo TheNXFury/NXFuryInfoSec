@@ -168,7 +168,6 @@ Courses | Duration | Effort | Prerequisites
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | - | one of [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), From Nand to Tetris Part I
 [C For Everyone: Programming Fundamentals ](https://www.coursera.org/learn/c-for-everyone) | 3-4 weeks | 12-15 hours/week | -
 [C For Everyone: Structured Programming ](https://www.coursera.org/learn/c-structured-programming) | 2 weeks | 5 hours/week | -
-[Operating Systems: Three Easy Pieces](coursepages/ostep/OSTEP.md) | 10-12 weeks | 6-10 hours/week | - | C programming
 [Computer Networking](https://www.udacity.com/course/computer-networking--ud436) | 12 weeks | 5-8 hours/week | -
 
 ### Core ethics
@@ -217,6 +216,8 @@ Courses | Duration | Effort | Prerequisites
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | 4 weeks | 5 hours/week | -
+[Debuggers 1011: Introductory WinDbg](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Dbg1011_WinDbg1+2021_v1/about) | 2 weeks | 10-15 hours/week | -
+[Debuggers 1012: Introductory GDB](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Dbg1012_GDB_1+2021_v1/about) | 2 weeks | 10-15 hours/week | -
 [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | 5 hours/week | -
 [Cryptography I](https://www.coursera.org/learn/crypto) | 7 weeks | 2.5 hours/week | -
 
@@ -242,6 +243,7 @@ But students should take *every* course that is relevant to the field they inten
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Architecture 1001: x86-64 Assembly](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/about) | 8 weeks | 10-15 hours/week | C programming
+[Architecture 2001: x86-64 OS Internals](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch2001_x86-64_OS_Internals+2021_v1/about) | 6 weeks | 10-15 hours/week | x86-64 Assembly Programming 
 [Parallel Programming in Java](https://www.coursera.org/learn/parallel-programming-in-java#syllabus)| 4 weeks | 5 hours/week | Java programming
 [Compilers](https://www.edx.org/course/compilers) | 9 weeks | 6-8 hours/week | none
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks | 6 hours/week | Python, object-oriented programming

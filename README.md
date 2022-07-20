@@ -234,7 +234,6 @@ Courses | Duration | Effort | Prerequisites
 [Debuggers 1011: Introductory WinDbg](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Dbg1011_WinDbg1+2021_v1/about) | 2 weeks | 10-15 hours/week | -
 [Debuggers 1012: Introductory GDB](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Dbg1012_GDB_1+2021_v1/about) | 2 weeks | 10-15 hours/week | -
 [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) | 4 weeks | 5 hours/week | -
-[Cryptography I](https://www.coursera.org/learn/crypto) | 7 weeks | 2.5 hours/week | -
 
 ## Advanced Information Security
 
@@ -316,6 +315,8 @@ Design and implement cryptographic systems, learn how they work, and learn what 
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
+[Cryptography I](https://www.coursera.org/learn/crypto) | 7 weeks | 2.5 hours/week | -
+[Mathematical Foundations for Cryptography](https://www.coursera.org/learn/mathematical-foundations-cryptography) | 4 weeks | 4 hours/week | -
 
 
 ## Final project

@@ -301,10 +301,14 @@ Courses | Duration | Effort | Prerequisites
 [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) | 7 weeks | 1-2 hours/week | Secure Software Development: Implementation
 
 ### Security Compliance
-Learn security standards in which the industry builds networks and systems, and how to implement them effectively.
+Learn security standards in which the industry builds networks and systems, and how to implement them effectively. We have elected to train to NIST standards, as we believe risk evaluation, a core piece of NIST standards, to be an important component in information security.
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
+[NIST CSF](https://www.coursera.org/learn/nist-csf?specialization=cybersecurity-risk-management-framework) | 1 week | 4 hours/week | -
+[NIST DoD RMF](https://www.coursera.org/learn/nist-dod-rmf?specialization=cybersecurity-risk-management-framework) | 1 week | 4 hours/week | NIST CSF
+[NIST 800-171](https://www.coursera.org/learn/nist-800-171?specialization=cybersecurity-risk-management-framework) | 2 weeks | 3 hours/week | NIST DoD RMF
+
 
 ### Cryptography
 Design and implement cryptographic systems, learn how they work, and learn what makes certain encryption algorithms more secure than others.

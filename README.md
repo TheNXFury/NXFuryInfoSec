@@ -45,10 +45,11 @@ When there are courses or books that don't fit into the curriculum but are other
 they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/readings.md).
 
 **Organization**. The curriculum is designed as follows:
-- *Intro CS*: for students to try out CS and see if it's right for them
-- *Core CS*: corresponds roughly to the first three years of a computer science curriculum, taking classes that all majors would be required to take
-- *Advanced CS*: corresponds roughly to the final year of a computer science curriculum, taking electives according to the student's interests
-- *Final Project*: a project for students to validate, consolidate, and display their knowledge, to be evaluated by their peers worldwide
+- *Introductory Materials*: for students to gain a basic foundation in programming, usage of certain software, logic, and critical thinking.
+- *Core Curriculum*: The essential core of Information Security, required knowledge for well rounded adequate advancement in the field.
+- *Advanced Information Security*: A more advanced set of skills required for high-fidelity or more masterful work, where students are able to pick what they wish to concentrate on.
+- *Specialization*: Students must pick a specilization and complete the listed courses in it in order to better understand a particularly relevant niche.
+- *Final Project*: A project for students to validate, consolidate, and display their knowledge, to be evaluated by their peers worldwide.
 
 **Duration**. It is possible to finish within about 2 years if you plan carefully and devote roughly 20 hours/week to your studies. Learners can use [this spread
 ](https://docs.google.com/spreadsheets/d/1bkUU90y4rKYQHwY5AR2iX6iiPTrPEsYs75GkCAkrgm4/copy) to estimate their end date. Make a copy and input your start date and expected hours per week in the `Timeline` sheet. As you work through courses you can enter your actual course completion dates in the `Curriculum Data` sheet and get updated completion estimates.
@@ -60,9 +61,10 @@ Decide how much or how little to spend based on your own time and budget;
 just remember that you can't purchase success!
 
 **Process**. Students can work through the curriculum alone or in groups of up to 5, ideally following the suggested order.
-- We recommend doing all courses in Core CS, only skipping a course when you are certain that you've already learned the material previously.
-- For simplicity, we recommend working through courses (especially Core CS) in order from top to bottom, as they have already been [topologically sorted](https://en.wikipedia.org/wiki/Topological_sorting) by their prerequisites.
-- Courses in Advanced CS are electives. Choose one subject (e.g. Advanced programming) you want to become an expert in and take all the courses under that heading. You can also create your own custom subject, but we recommend getting validation from the community on the subject you choose.
+- We recommend doing all courses in the Core Curriculum, only skipping a course when you are certain that you've already learned the material previously.
+- For simplicity, we recommend working through courses (especially the Core Curriculum) in order from top to bottom, as they have already been [topologically sorted](https://en.wikipedia.org/wiki/Topological_sorting) by their prerequisites.
+- Courses in Advanced Information Security are electives. Choose one subject (e.g. [Advanced Programming](#advanced-programming)) you want to become an expert in and take all the courses under that heading. You can also create your own custom subject, but we recommend getting validation from the community on the subject you choose.
+- Courses in Specialization are also a form of elective. However, you are picking a particular niche rather than a set of classes.
 
 **Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
 *Do NOT disrespect the code of conduct* that you signed in the beginning of each course!
@@ -105,10 +107,8 @@ just remember that you can't purchase success!
 
 ## Prerequisites
 
-- [Core CS](#core-cs) assumes the student has already taken high school math. This includes algebra, geometry, and pre-calculus.
-- [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS
-and is knowledgeable enough now to decide which electives to take.
-- Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
+- [Core Curriculum](#core-cs) assumes the student has already taken high school math. This includes algebra, geometry, and pre-calculus.
+- [Advanced Information Security](#advanced-information-security) and [Specialization](#specialization) assumes the student has already taken the entirety of the Core Curriculum and is knowledgeable enough now to decide which electives to take.
 
 ## Introductory Materials
 
@@ -239,7 +239,7 @@ Courses | Duration | Effort | Prerequisites
 
 ## Advanced Information Security
 
-After completing **every required course** in Core CS, students should choose a subset of courses from Advanced CS based on interest.
+After completing **every required course** in the Core Curriculum, students should choose a subset of courses from Advanced Information Security based on interest.
 Not every course from a subcategory needs to be taken.
 But students should take *every* course that is relevant to the field they intend to go into.
 

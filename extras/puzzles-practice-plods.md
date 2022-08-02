@@ -1,49 +1,30 @@
-# Computer Science - Puzzles, Practice and Plods
+# Information Security - Practical Application and Challenges
 
-**Some OSSUnians value sites that allow them to practice coding problems disconnected from a course.**
+**Some individuals value sites that allow them to practice problems and gain hands on experience disconnected from a course.**
 
-> Solving "textbook" problems is easy because we've been prepped for them by the course. Solving a "real world" example is much more difficult because there is no hand-holding.
-
-[link](https://github.com/ossu/computer-science/issues/783#issuecomment-694187743)
-
-> So give us a problem where the parameters are laid out in x,y fashion, and we'll be able to code for it. But confront us with another problem, and it might stump us since we're still not practiced with thinking algorithmically or what have you.
-
-[link](https://github.com/ossu/computer-science/issues/783#issuecomment-694176898)
+This is understandable, as it forces them to adapt their thinking and expand upon the foundations that they are being taught. Those seeking outside challenges must be able to effectively extrapolate from their foundations and learn to apply these extrapolations in meaningful ways.
 
 **Others feel that its important not to get distracted by anxieties and puzzles.**
 
-> Consider this a love letter to all the beginners out there.
+ We would like to extend a word to all beginners, as we know it can be tough, especially in a field such as information security where the knowledge is never-ending.
 
-> I think that when you are still in the beginner stages, it FEELS like you do not have enough competence to contributing to a project.
-  It FEELS like taking classes, doing programming assignments etc. are not good enough in your eyes to be considered worthy of a "project".
-  They feel too small and insignificant. You're not quite satisfied.
-  (Part of the reason might be that early stuff is too easy for you, and you haven't taken a course that kicked your ass and wiped the floor with you yet.)
-  Since this is online learning and there is nobody/nothing holding you back, the natural tendency is to spread wide and try to do many things all at once, get distracted.
-  I'VE BEEN THERE, trust me.
-  And naturally you are in a rush to become competent as fast as possible.
-  You keep thinking, "when will I be ready to do something BIG?" And you don't want to wait.
-  Similar to how children always seem like they are in a hurry to grow up and start imitating adults.
-  The dissatisfaction and the impatience make for an uncomfortable combination.
-  Let's call this: beginner's mind.
+> Stay humble, but always seek new challenges. Humility is the key to learning, as you are never beyond correction, and thus, opening your mind. However, do not isolate yourself out of fear and claim it as humility. You must continually undertake new challenges if you hope to improve; seek out what you are not confident in, and apply yourself until you become more competent. It is the only path to success.
 
-> The fact is, you have to be patient.
-  I would argue that early on in your studies, arguably, is NOT when it is most critical for you to contribute to a project...
+> You may want to make these new challenges practical, but we suggest that you make them another course. While there is something to be said for tenacity and an unrelenting pursuit towards competency in application, you must have at least a working understanding of what you seek to overcome. Without this, you are creating unnecessary hurdles in your approach. Utilize your resources to the maximum, and continually seek to expand your resources and knowledge so that as many of these hurdles are removed as possible.
 
-> I would recommend the slow, steady and patient approach of OSSU over the distracted, all over the place style of learning lots of others use, with various uncoordinated resources on the internet.
- Looking for a project? How about THE NEXT COURSE?
+> Be patient throughout. Unnecessarily rushing yourself creates gaps and frustration, which in tandem, may serve as motivation counter towards your objective. We highly encourage sticking with the curriculum, as it builds upon itself in a way set up to give you a base significant enough that you may effectively expand your understanding over time, rather than attempting to learn entirely new and foreign concepts in a sporadic way that just creates misunderstandings and knowledge gaps.
 
->  So I think that the problem is not really a problem, but a need to adjust expectations.
-  I would recommend a shift in thinking, away from beginner's mind.
-  Think long term, so that those small, insignificant exercises and programming assignments in each course should feel like they are crucial parts of your biggest, long-term project: YOU
+> Focus on the long term, not the short term. Your goal in starting this course should be to acquire a base and develop knowledge and your interests, not immediate mastery. Take the time to understand that while short term objectives are gratifying in their own way, they do not compare to the opportunities that long term objectives yield. We implore you to keep this in the back of your mind as you continue, not only through the courses, but throughout the duration of your journey in information security. 
 
-[link](https://github.com/ossu/computer-science/issues/783#issuecomment-690023645)
+We ask that you read the above and then consider how much time you wish to put into these resources:
+- [HackTheBox](https://hackthebox.eu)
 
-So OSSUnian, read the above and then consider how much time you wish to put into these resources:
-- [Exercism](https://exercism.io/)
-- [LeetCode](https://leetcode.com/)
-- [HackerRank](https://www.hackerrank.com/)
-- [CodeWars](https://www.codewars.com/)
-- [100+ Python Coding Problems with Solutions](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions)
-- [Rosalind](http://rosalind.info/problems/locations/)
-- [Advent of Code](https://adventofcode.com/)
-- [GitHub projects for beginners](https://github.com/MunGell/awesome-for-beginners) - Projects that are specifically geared towards beginners to GitHub. Possibly intermediate to advanced coding issues to be solved.
+> HackTheBox is a free and legal way to practice penetration testing skills across a myriad of difficulties. This resource is meant to enrich your understanding of how after your have learned the why; while attempting to learn the how and simply relying on that may yield early success, you will continually fail past a certain point if you have failed to grasp why these tools and methods are employed.
+
+- [Pro/g/ramming Challenges](https://raw.githubusercontent.com/8ightfold/Pro-g-ramming-Challenges/main/pro_g_ramming.png)
+
+> The /g/ board of 4chan has amassed a series of programming challenges, with various base difficulties and modifiers you can choose to do. These are excellent for developing your problem solving, critical thinking, and programming skills. They also provide an excellent opportunity to start your own GitHub, where you can put your attempts and open them to others.
+
+- [PicoCTF](https://picoctf.org/)
+
+> PicoCTF is a puzzle environment where users are able to attempt puzzles released in previous CTF competitions. Puzzles rely on a myriad of technical skills, and are a good way to apply and refine critical thinking skills. The site and competition ran alongside the puzzles is run by Carnegie Mellon University, an internationally renowned research institution particularly with regards to computing.

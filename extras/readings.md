@@ -112,6 +112,7 @@ Name | Author(s)
 :-- | :--:
 [The Linux Command Line](https://linuxcommand.org/tlcl.php) | by William Shotts
 [Vivisect](https://github.com/vivisect/vivisect) | FOSS
+[Vivisect Scripts](https://github.com/atlas0fd00m/atlasutils) | atlas0fd00m
 [OSINT Framework](https://osintframework.com/) | Justin Nordine
 [Godbolt](https://godbolt.org/) | Matt Godbolt
 [Shodan](https://www.shodan.io/) | Shodan Team

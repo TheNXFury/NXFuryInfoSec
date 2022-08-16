@@ -1,13 +1,9 @@
 # Other curricula
 
-OSSU is one of a few efforts to inform learners how they can pursue computer science independently. Below are a few other such efforts.
+NXFury InfoSec is one of a few efforts to inform learners how they can pursue information security independently.
 
-- [Google - Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-- [Obtaining a Thorough CS Background Online](http://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online/)
-- [P1xt](https://github.com/P1xt/p1xt-guides)
-- [Functional CS](https://functionalcs.github.io/curriculum/)
+There are plenty of other curricula out there, and if you would like a reference of them, we would like to point you to NIST's [National Initiative for Cybersecurity Education (NICE)](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content), a list of resources for development as an information security professional for low or no cost. 
 
-What differentiates OSSU? OSSU is dedicated to how an individual can learn the undergraduate CS curriculum. This is why we use the [CS2013](../CURRICULAR_GUIDELINES.md) as our curricular guidelines. These guidelines are written by the two foremost professional organizations in computing.
+What differentiates NXFury InfoSec? NXFury InfoSec, rather than promoting purely penetration testing and related skills, seeks to allow students to familiarize themselves with the concepts and facets of computing that make themselves evident throughout security. It is our belief that without a fundamental, multifaceted knowledge base, there are limits placed upon the capability of people who would otherwise excel, and as such, strive to remove those limits to create a more well-rounded, capable, and knowledgeable information security specialist.
 
-This approach has the benefit of clarifying to others the extent of a student's study and understanding. Students have gone from OSSU study into both tech industry employment and into Computer Science graduate school. We look forward to helping you do the same.
+We believe that taking this approach will create a more holistic view of information security, and as such enable specialists to better understand the why, rather than just the how, which in turn enables them to understand the how to a much better degree. We also wish to encourage graduates to begin using this knowledge, not only to better manipulate and understand the contemporary, but to look to the future and begin doing their own research with regards to information security. 

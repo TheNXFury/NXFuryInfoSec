@@ -129,3 +129,4 @@ Name | Author(s)
 [IDA Pro](https://hex-rays.com/IDA-pro/) | Hex Rays
 [Ghidra](https://ghidra-sre.org/) | US National Security Agency
 [nmap](https://nmap.org/) | Gordon Lyon
+[OSINT Tools](https://inteltechniques.com/tools/index.html) | Michael Bazzell

@@ -41,6 +41,9 @@ Name | Author(s)
 [Starting out With C++: From Control Structures to Objects 9ED](https://www.amazon.com/Starting-Out-Control-Structures-Objects/dp/0133769399) | Tony Gaddis
 
 ## Social Engineering
+
+Name | Author(s)
+:-- | :--:
 [The Art of Deception](https://www.amazon.com/Art-Deception-Controlling-Element-Security/dp/B08C3849FL/) | Kevin Mitnick
 [The Art of Intrustion](https://www.amazon.com/Art-Intrusion-Exploits-Intruders-Deceivers/dp/0764569597) | Kevin Mitnick
 
@@ -98,6 +101,13 @@ Name | Author(s)
 [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/) | Fred Brooks, Jr.
 [Physically Based Rendering: From Theory To Implementation](http://www.pbr-book.org/) | Matt Pharr, Wenzel Jakob, and Greg Humphreys
 [Writing a Simple Operating System - From Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) | Nick Blundell
+
+## Recon and Intelligence
+
+Name | Author(s)
+:-- | :--:
+[Extreme Privacy: What it Takes to Disappear](https://inteltechniques.com/book7.html) | Michael Bazzell 
+[Open Source Intelligence Techniques](https://inteltechniques.com/book1.html) | Michael Bazzell
 
 ## Reference
 
